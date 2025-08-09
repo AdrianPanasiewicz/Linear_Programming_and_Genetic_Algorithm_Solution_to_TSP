@@ -8,31 +8,33 @@ For the given problem (a problem from the set specified by the lecturer, with a 
 
 4. Implement in a chosen environment:
    
-a. An exact algorithm solving the problem. (6 pts)
-b. A specified or self-proposed approximation/heuristic algorithm solving the problem. (6 pts)
+   a. An exact algorithm solving the problem. (6 pts)
+   
+   b. A specified or self-proposed approximation/heuristic algorithm solving the problem. (6 pts)
 
-The format of data input and output is arbitrary. One option is to use a text interface or text files.
+   The format of data input and output is arbitrary. One option is to use a text interface or text files.
 
 6. The implementation should include:
-a. A data instance generator for the problem with a given size. (2 × 1 pt)
 
-b. Measured time complexity of both algorithms. (2 × 1 pt)
-
-c. Measured memory usage of both algorithms. (2 × 1 pt)
-
-d. Data allowing the evaluation of the quality (accuracy) of the solution. (2 × 1 pt)
+   a. A data instance generator for the problem with a given size. (2 × 1 pt)
+   
+   b. Measured time complexity of both algorithms. (2 × 1 pt)
+   
+   c. Measured memory usage of both algorithms. (2 × 1 pt)
+   
+   d. Data allowing the evaluation of the quality (accuracy) of the solution. (2 × 1 pt)
 
 7. Estimate (for each of the two algorithms):
 
-a. Theoretical pessimistic memory and computational complexity as a function of problem size (as defined for the given problem). (2 pts)
-
-b. Theoretical expected memory and computational complexity as a function of problem size (as defined for the given problem). (2 pts)
-
-c. Theoretical pessimistic sensitivity as a function of problem size (as defined for the given problem). (2 pts)
-
-d. Theoretical expected sensitivity as a function of problem size (as defined for the given problem). (2 pts)
-
-e. Theoretical accuracy as a function of problem size (as defined for the given problem). (2 pts)
+   a. Theoretical pessimistic memory and computational complexity as a function of problem size (as defined for the given problem). (2 pts)
+   
+   b. Theoretical expected memory and computational complexity as a function of problem size (as defined for the given problem). (2 pts)
+   
+   c. Theoretical pessimistic sensitivity as a function of problem size (as defined for the given problem). (2 pts)
+   
+   d. Theoretical expected sensitivity as a function of problem size (as defined for the given problem). (2 pts)
+   
+   e. Theoretical accuracy as a function of problem size (as defined for the given problem). (2 pts)
 
 8. Prepare a presentation containing information from points 1, 2, 3, 5 (optionally also from point 4). Present it during the specified laboratory class (presentation time – max 10 minutes). (4 pts)
 
