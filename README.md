@@ -1,39 +1,30 @@
-Zadania laboratoryjne
-z przedmiotu „Techniki algorytmiczne”
-Dla wskazanego problemu (problem ze zbioru określonego przez wykładowcę o numerze odpowiadającym numerowi studenta na
-liście studentów) należy:
-1. Przygotować teoretyczny opis problemu (w formie pisemnej). (2 pkt.)
-2. Przygotować opis algorytmu dokładnego służącego do rozwiązania zadanego problemu (w formie pisemnej). (2 pkt.)
-3. Przygotować opis wskazanego lub zaproponowanego przez siebie algorytmu aproksymacyjnego/heurystycznego służącego
-do rozwiązania zadanego problemu. (w formie pisemnej). (2 pkt.)
-4. Zaimplementować w wybranym środowisku:
-a. algorytm dokładny rozwiązujący problem, (6 pkt.)
-b. wskazany lub zaproponowany przez siebie algorytm aproksymacyjny/ heurystyczny rozwiązujący problem.
-(6 pkt.)
-Format wprowadzania danych i wyświetlania wyników jest dowolny. Jedną z możliwości jest zastosowanie interfejsu
-tekstowego lub plików tekstowych.
-Implementacja powinna zawierać:
-c. generator egzemplarzy danych dla problemu przy podanym jego rozmiarze, (2 x 1 pkt.)
-Implementacja powinna prezentować:
-d. zmierzoną złożoność czasową obu algorytmów, (2 x 1 pkt.)
-e. zmierzoną pamięciową obu algorytmów, (2 x 1 pkt.)
-f. dane pozwalające na ocenę „jakości (dokładności) rozwiązania”. (2 x 1 pkt.)
-5. Oszacować (dla każdego z dwóch algorytmów):
-a. teoretyczną pesymistyczną złożoność pamięciową i obliczeniową w zależności od rozmiaru zadania (określonego
-w zależności od problemu), (2 pkt.)
-b. teoretyczną złożoność oczekiwaną pamięciową i obliczeniową w zależności od rozmiaru zadania (określonego
-w zależności od problemu), (2 pkt.)
-c. teoretyczną wrażliwość pesymistyczną w zależności od rozmiaru zadania (określonego w zależności od problemu),
-(2 pkt.)
-d. teoretyczną wrażliwość oczekiwaną w zależności od rozmiaru zadania (określonego w zależności od problemu),
-(2 pkt.)
-e. teoretyczną dokładność w zależności od rozmiaru zadania (określonego w zależności od problemu). (2 pkt.)
-6. Przygotować prezentację zawierającą wiadomości z punktów 1,2,3,5 (ewentualnie również z pkt. 4). Zaprezentować na
-wskazanych zajęciach laboratoryjnych (czas prezentacji – max 10 minut). (4 pkt.)
-7. Przeprowadzić szereg eksperymentów (5 pkt.) i przeprowadzić analizę ich wyników wraz z wnioskami (5 pkt.).
-Eksperymenty mają pozwolić na porównanie oszacowanych parametrów z punktu 5 z wartościami rzeczywistymi,
-otrzymanymi w trakcie realizacji eksperymentów.
-8. Sporządzić sprawozdanie.
-Sprawozdanie powinno zawierać informacje zebrane w punktach 1, 2, 3, 5, 7, wnioski oraz bibliografię. Sprawozdanie wraz
-z prezentacją i implementacją powinno zostać dostarczone najpóźniej na ostatnich zajęciach laboratoryjnych w semestrze.
-Odstępstwa od tej reguły - po uzgodnieniu z wykładowcą.
+For the given problem (a problem from the set specified by the lecturer, with a number corresponding to the student’s number on the student list), the student must:
+
+Prepare a theoretical description of the problem (in written form). (2 pts)
+
+Prepare a description of an exact algorithm for solving the given problem (in written form). (2 pts)
+
+Prepare a description of a specified or self-proposed approximation/heuristic algorithm for solving the given problem (in written form). (2 pts)
+
+Implement in a chosen environment:
+a. An exact algorithm solving the problem. (6 pts)
+b. A specified or self-proposed approximation/heuristic algorithm solving the problem. (6 pts)
+The format of data input and output is arbitrary. One option is to use a text interface or text files. The implementation should include:
+c. A data instance generator for the problem with a given size. (2 × 1 pt)
+The implementation should present:
+d. Measured time complexity of both algorithms. (2 × 1 pt)
+e. Measured memory usage of both algorithms. (2 × 1 pt)
+f. Data allowing the evaluation of the quality (accuracy) of the solution. (2 × 1 pt)
+
+Estimate (for each of the two algorithms):
+a. Theoretical pessimistic memory and computational complexity as a function of problem size (as defined for the given problem). (2 pts)
+b. Theoretical expected memory and computational complexity as a function of problem size (as defined for the given problem). (2 pts)
+c. Theoretical pessimistic sensitivity as a function of problem size (as defined for the given problem). (2 pts)
+d. Theoretical expected sensitivity as a function of problem size (as defined for the given problem). (2 pts)
+e. Theoretical accuracy as a function of problem size (as defined for the given problem). (2 pts)
+
+Prepare a presentation containing information from points 1, 2, 3, 5 (optionally also from point 4). Present it during the specified laboratory class (presentation time – max 10 minutes). (4 pts)
+
+Conduct a series of experiments (5 pts) and analyze their results along with conclusions (5 pts). The experiments should allow for comparing the estimated parameters from point 5 with the actual values obtained during the experiments.
+
+Prepare a report. The report should contain information gathered in points 1, 2, 3, 5, and 7, conclusions, and bibliography. The report, along with the presentation and implementation, should be delivered no later than during the last laboratory class of the semester. Exceptions to this rule – upon agreement with the lecturer.
